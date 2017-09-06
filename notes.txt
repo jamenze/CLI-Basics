@@ -1,0 +1,5 @@
+Doggos are the best puppers etc.
+
+2. cd
+
+The cd command - change directory - will allow the user to change between file directories. As the name command name suggest, you would use the cd command to circulate between two different directories. For example, if you wanted to change from the home directory to the Arora directory, you would input the following command:
